@@ -1,0 +1,2 @@
+# ACM-Backend-Task
+An exclusive marketplace app for BITSians. Students can use the app to sell products like books, cycles, kettles etc to other students on campus. The seller can list an item up for sale with a minimum bidding price and other students can place bids on listed items. The seller can then select a bid and finalize a deal (once the deal is finalized, communication can happen outside the app).
